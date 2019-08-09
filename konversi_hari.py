@@ -1,4 +1,4 @@
-#! /usr/bin/latian/conversi_hari.py
+#! /usr/bin/latian/konversi_hari.py
 
 hari = input('masukkan hari: ')
 print('----------------------------------')
