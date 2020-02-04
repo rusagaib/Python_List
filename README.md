@@ -1,6 +1,7 @@
-# Python_List
+# Python_List:
 coding simple penggunaan list menggunakan Python
 
-requirement:
+# requirement:
 1. PILLOW (untuk img_resizer.py)
-   ~$ pip install Pillow
+        
+       ~$ pip install Pillow
