@@ -22,7 +22,8 @@ inputin(jum_input)
 print("-end_of_main-")
 
 #after main/main tambahan proses ,
-#biasanya digunakan sebagai tambahan proses saat kita pakai class atau di web-apps flask dsb
+#biasanya digunakan sebagai tambahan proses maupun preprosesing tergantung penggunaan
+#saat kita pakai class atau di web-apps flask dsb
 if __name__ == "__main__":
     print("--tambahan-process--")
     print(Nm_penyetor) #<-pindah baris ke-22 atau dicopas biar terlihat bedanya..
